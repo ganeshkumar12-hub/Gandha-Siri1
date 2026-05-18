@@ -155,11 +155,11 @@ CRUD operations are implemented for efficient tree management.
 - Lightweight application development
 - Real-world agricultural technology solutions
 
-<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/39668e59-c15f-4d3f-b901-2a885a51c2a5" />
-<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/6ef12127-42f6-4c36-8299-f0f1ab98b9e0" />
-<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/67b40a1e-8d6a-499a-b895-1537cbfd014a" />
-<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/94a0a1e2-6961-444a-9708-5dfe0d95240c" />
-<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/565c4ba8-0c4f-4942-b394-c7b68df6ce03" />
+<img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/fe374f08-60b7-48f8-b458-1c9f7dc6e7fe" />
+<img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/1f5a627b-99ce-44b4-ab1d-e6e53406ff91" />
+<img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/dc1ef9da-d68b-4196-a9ee-fcdd544abfa0" />
+<img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/561be9d8-b0ec-4893-bffa-9deab23470a7" />
+<img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/46732597-110e-4d75-8ea3-8dda8d174ad3" />
 
 
 
