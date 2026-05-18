@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:title="Home"
+        android:icon="@android:drawable/ic_menu_compass" />
+    <item
+        android:id="@+id/nav_register"
+        android:title="Register"
+        android:icon="@android:drawable/ic_input_add" />
+    <item
+        android:id="@+id/nav_trees"
+        android:title="My Trees"
+        android:icon="@android:drawable/ic_menu_mapmode" />
+    <item
+        android:id="@+id/nav_security"
+        android:title="Security"
+        android:icon="@android:drawable/ic_menu_info_details" />
+    <item
+        android:id="@+id/nav_legal"
+        android:title="Legal"
+        android:icon="@android:drawable/ic_menu_agenda" />
+</menu>

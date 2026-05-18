@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cream"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:id="@+id/legalContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="⚖️ Legal Guide"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/wood"
+            android:paddingBottom="6dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Legal steps to harvest sandalwood in Karnataka"
+            android:textSize="13sp"
+            android:textColor="@color/wood_light"
+            android:paddingBottom="16dp" />
+
+    </LinearLayout>
+</ScrollView>

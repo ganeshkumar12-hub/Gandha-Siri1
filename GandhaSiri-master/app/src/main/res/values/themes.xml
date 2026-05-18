@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GandhaSiri" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/wood</item>
+        <item name="colorPrimaryVariant">@color/wood_light</item>
+        <item name="colorOnPrimary">@color/sand_light</item>
+        <item name="colorAccent">@color/sand</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+</resources>

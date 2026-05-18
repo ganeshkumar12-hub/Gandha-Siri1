@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cream"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🌳 My Tree Register"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/wood"
+        android:paddingBottom="16dp" />
+
+    <!-- Shows when list is empty -->
+    <TextView
+        android:id="@+id/tvEmptyMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🌱 No trees yet. Go to Register tab to add your first tree!"
+        android:textSize="15sp"
+        android:textColor="@color/wood_light"
+        android:gravity="center"
+        android:paddingTop="60dp"
+        android:visibility="gone" />
+
+    <!-- Shows when list has data -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerTrees"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
